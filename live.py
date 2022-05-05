@@ -141,7 +141,7 @@ class Page:
         if version == "yolo3":
             self.yolo3_video()
         elif version == "yolo5_marchers":
-            self.yolo5_video("yolov5/best.pt", "marchers")
+            self.yolo5_video("yolov5/new_best.pt", "marchers")
         elif version == "yolo5_lines":
             self.yolo5_video("yolov5/lines.pt", "lines")
         elif version == "yolo5_numbers":
