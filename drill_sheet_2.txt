@@ -1,0 +1,31 @@
+1 0 Side 1: 3.0 steps inside 35 yd ln 2.0 steps in front of Front Hash (HS)
+1A 16 Side 1: 3.0 steps inside 35 yd ln 2.0 steps in front of Front Hash (HS)
+2 12 Side 1: 0.5 steps inside 40 yd ln 0.25 steps in front of Front Hash (HS)
+2A 8 Side 1: 0.5 steps inside 40 yd ln 0.25 steps in front of Front Hash (HS)
+3 16 Side 1: 2.75 steps outside 45 yd ln 8.0 steps in front of Front Hash (HS)
+4 16 Side 1: 0.5 steps outside 40 yd ln 11.0 steps behind Front side line
+4A 8 Side 1: 0.5 steps outside 40 yd ln 11.0 steps behind Front side line
+5 16 Side 1: 2.5 steps inside 35 yd ln 11.0 steps in front of Front Hash (HS)
+6 16 Side 1: 1.0 steps outside 40 yd ln 8.75 steps in front of Front Hash (HS)
+6A 16 Side 1: 1.0 steps outside 40 yd ln 8.75 steps in front of Front Hash (HS)
+7 16 Side 2: 2.75 steps outside 50 yd ln 1.0 steps in front of Front Hash (HS)
+8 16 Side 2: 2.25 steps outside 45 yd ln 11.0 steps in front of Front Hash (HS)
+8A 7 Side 2: 2.25 steps outside 45 yd ln 11.0 steps in front of Front Hash (HS)
+8B 6 Side 2: 2.25 steps outside 45 yd ln 11.0 steps in front of Front Hash (HS)
+9 11 Side 2: 2.25 steps outside 45 yd ln 11.0 steps in front of Front Hash (HS)
+9A 8 Side 2: On 45 yd ln 6.0 steps behind Front side line
+10 8 Side 2: 3.0 steps inside 45 yd ln On Front side line
+10A 12 Side 2: 3.0 steps inside 45 yd ln On Front side line
+11 12 Side 2: 3.0 steps outside 45 yd ln 7.75 steps behind Front side line
+12 14 Side 2: 1.5 steps outside 50 yd ln 14.0 steps behind Front side line
+13 18 Side 2: 1.75 steps outside 45 yd ln 2.0 steps behind Front Hash (HS)
+13A 6 Side 2: 1.75 steps outside 45 yd ln 2.0 steps behind Front Hash (HS)
+14 12 Side 2: 1.25 steps inside 35 yd ln 0.25 steps in front of Front Hash (HS)
+15 12 Side 2: 4.0 steps outside 30 yd ln 8.0 steps in front of Front Hash (HS)
+16 12 Side 2: 4.0 steps outside 35 yd ln On Front Hash (HS)
+17 12 Side 2: 1.75 steps inside 30 yd ln 3.5 steps behind Front Hash (HS)
+18 6 Side 2: 4.0 steps outside 30 yd ln On Front Hash (HS)
+18A 20 Side 2: 4.0 steps outside 30 yd ln On Front Hash (HS)
+19 8 Side 2: On 30 yd ln 6.0 steps behind Front Hash (HS)
+20 12 Side 2: 4.0 steps outside 35 yd ln 9.0 steps behind Front Hash (HS)
+21 20 Side 2: 4.0 steps outside 35 yd ln 9.0 steps behind Front Hash (HS)
